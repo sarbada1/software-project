@@ -1,0 +1,1 @@
+New feature: Basic user notification support.
